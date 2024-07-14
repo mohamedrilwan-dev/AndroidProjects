@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">University_Programs</string>
+    <string-array name="graduateList">
+        <item>&#8226; Master of Science (MS) in Computer Science</item>
+        <item>&#8226; Master in Civil Engineering</item>
+        <item>&#8226; Master of Business Administration (MBA)</item>
+        <item>&#8226; Master of Arts (MA) in Psychology </item>
+        <item>&#8226; Doctor of Medicine (MD) </item>
+        <item>&#8226; Ph.D. in Economics </item>
+        <item>&#8226; Master of Public Health (MPH) </item>
+    </string-array>
+    <string-array name="undergraduateList">
+        <item>&#8226; Bachelor of Computer Science (BCS)</item>
+        <item>&#8226; Bachelor of Psychology (BPsych)</item>
+        <item>&#8226; Bachelor of Business Administration (BBA) </item>
+        <item>&#8226; Bachelor of Engineering (BEng) in Civil Engineering </item>
+        <item>&#8226; Bachelor of Arts (BA) in English Literature </item>
+        <item>&#8226; Bachelor of Science (BS) in Biology </item>
+    </string-array>
+    <string-array name="diplomaList">
+        <item>&#8226; Diploma in Information Technology </item>
+        <item>&#8226; Diploma in Electrical Engineering Technology </item>
+        <item>&#8226; Diploma in Early Childhood Education </item>
+        <item>&#8226; Diploma in Medical Assisting </item>
+        <item>&#8226; Diploma in Accounting </item>
+        <item>&#8226; Diploma in Culinary Arts </item>
+        <item>&#8226; Certificate in Human Resource Management </item>
+        <item>&#8226; Certificate in Project Management </item>
+    </string-array>
+</resources>
