@@ -1,5 +1,5 @@
 # University Programs Finder
-Using this app user can be able see university programs based on study level such asc Undergraduate,Graduate and Diploma.
+Using this app user can be able see university offering programs based on choosing study level such asc Undergraduate,Graduate and Diploma.
 
 # Application Screenshots
 
